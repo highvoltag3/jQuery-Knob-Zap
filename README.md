@@ -1,5 +1,5 @@
 ### WARNING
-**This is a modified version of the original plugin with nothing that would really improve over the original if you're thinking about using it I'd recommend using the original which can be found here: (https://github.com/aterrien/jQuery-Knob)**
+**This is a modified version of the original plugin with nothing that would really improve over it, if you're thinking about using it I'd recommend using the original which is up to date can be found here: (https://github.com/aterrien/jQuery-Knob)**
 
 jQuery Knob
 =============
