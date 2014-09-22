@@ -1,3 +1,5 @@
+This is a modified version of the original plugin with nothing that would really improve over the original if you're thinking about using it I'd recommend using the original which can be found here: 
+
 jQuery Knob
 =============
 
@@ -130,5 +132,3 @@ Supported browser
 -------
 
 Tested on Chrome, Safari, Firefox, IE 9.0.
-
-![secretplan](https://raw.github.com/aterrien/jQuery-Knob/master/secretplan.jpg)
